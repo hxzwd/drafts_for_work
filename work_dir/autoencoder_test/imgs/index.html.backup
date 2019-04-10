@@ -1,0 +1,174 @@
+<html><head><title>index.html</title><style>.column{float:left;width:auto;padding:10px;}.row::after{content:'';clear:both;display:table;}.container{position:relative;text-align:center;color:black;}.bottom-left{position:absolute;bottom:-4px;left:-10px;}.top-left {position:absolute;top:-4px;left:-10px;}</style></head><body><b>images:</b><hr>
+
+<div class = "row">
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_2_digit_1.png" /img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_2_digit_1.png" /img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_2_digit_1.png" /img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_2_digit_1.png" /img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src="sample_2_digit_1.png"/img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+</div>
+
+
+<div class = "row">
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_0_digit_7.png" /img>
+		<div class = "top-left">0</div>
+		<div class = "bottom-left">7</div>
+	</div>
+</div>
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_1_digit_2.png" /img>
+		<div class = "top-left">1</div>
+		<div class = "bottom-left">2</div>
+	</div>
+</div>
+
+
+
+
+<div class = "column">
+	<div class = "container">
+		<img src = "sample_2_digit_1.png" /img>
+		<div class = "top-left">2</div>
+		<div class = "bottom-left">1</div>
+	</div>
+</div>
+
+</div>
+
+</body></html>
